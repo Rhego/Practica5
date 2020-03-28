@@ -53,9 +53,6 @@ def update(id,title,author,year,isbn):
 
 
 
-
-
-
 connect()
 #insert("Arny","Prueba",1952,5487)
 update(1,'Jose','Prueba3',5465,65564)
